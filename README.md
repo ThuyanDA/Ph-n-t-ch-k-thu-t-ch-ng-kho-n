@@ -1,3 +1,1 @@
-Bài tập trung vào vẽ các đường chỉ báo kỹ thuật trong phân tích chứng khoán như: MA, MACD, RSI, Tính toán Stochastic Oscillator chỉ dựa vào giá đóng cửa (Close),  Bollinger Bands...
-Với dữ liệu của tất cả các mã chứng khoán được niêm yết trên sàn giao dịch chứng khoán tại Việt Nam từ ngày đầu niêm yết tới năm 2023
-Người dùng có thể tùy chọn mã chứng khoán mà mình mong muốn để xem các đường chỉ báo và có một cái nhìn tổng quan hơn về mã chứng khoán mình đang đầu tư hoặc có mong muốn đầu tư.
+The lesson focuses on drawing technical indicator lines in stock analysis such as: MA, MACD, RSI, Calculating Stochastic Oscillator based only on closing price (Close), Bollinger Bands... With data of all Stock codes are listed on the stock exchange in Vietnam from the first day of listing until 2023. Users can choose the stock code they want to see indicator lines and have a more general view. about the stock code you are investing in or want to invest in.
