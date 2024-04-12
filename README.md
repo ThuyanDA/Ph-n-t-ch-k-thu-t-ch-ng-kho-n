@@ -1,0 +1,3 @@
+Bài tập trung vào vẽ các đường chỉ báo kỹ thuật trong phân tích chứng khoán như: MA, MACD, RSI, Tính toán Stochastic Oscillator chỉ dựa vào giá đóng cửa (Close),  Bollinger Bands...
+Với dữ liệu của tất cả các mã chứng khoán được niêm yết trên sàn giao dịch chứng khoán tại Việt Nam từ ngày đầu niêm yết tới năm 2023
+Người dùng có thể tùy chọn mã chứng khoán mà mình mong muốn để xem các đường chỉ báo và có một cái nhìn tổng quan hơn về mã chứng khoán mình đang đầu tư hoặc có mong muốn đầu tư.
